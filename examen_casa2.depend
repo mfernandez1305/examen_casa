@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1418163253 source:c:\users\asus\documents\github\examen_casa2\main.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<list>
+	<vector>
+	<map>
+	<fstream>
+	<stdlib.h>
+
